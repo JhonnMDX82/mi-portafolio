@@ -10,4 +10,4 @@ Mi nombre es Jhonn Alexander Orellana Fernandez estudiante de la carrera de Ing.
 ## Instalación
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tuusuario/mi-portafolio.git
+   git clone https://github.com/JhonnMDX82/mi-portafolio.git
